@@ -12,7 +12,7 @@ Table of Contents:
 7. Project Structure
 8. API Routes
 
-9. Features
+1. Features
 
 Model Selection: Choose from a list of AI models retrieved from the Ollama API.
 Temperature Control: Adjust response creativity using a temperature range of 0.1 to 2.0.
